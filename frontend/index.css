@@ -1,3 +1,23 @@
 h1{
     color:red;
 }
+#home-intro{
+
+    text-align:center;
+   /* border:3px;
+    border-color:black;
+    border-style:solid;
+    */
+    border:3px solid rgb(12, 12, 15);
+
+   /*background-color:rgb(226, 161, 214);
+    color:rgb(47, 61, 64);
+    padding:10px;
+    margin:10px;*/
+}
+#home-intro:hover{
+    background-color:rgb(226, 161, 214);
+    color:rgb(47, 61, 64);
+    padding:10px;
+    margin:10px;
+}
