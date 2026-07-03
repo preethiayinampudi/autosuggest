@@ -16,8 +16,28 @@ h1{
     margin:10px;*/
 }
 #home-intro:hover{
-    background-color:rgb(226, 161, 214);
-    color:rgb(47, 61, 64);
+    background-color:rgb(234, 220, 232);
+    color:rgb(44, 176, 206);
     padding:10px;
     margin:10px;
+}
+
+
+#p2{
+    color:rgb(98, 214, 40);
+    font-size:20px;
+}
+#nav{
+    text-align:center;
+    height:25px;
+    background-color:red;
+    padding-top:5px;
+    margin-bottom:5px;
+    
+}
+#nav a{
+    margin: 0px 5px;
+    text-decoration:none;
+    color:white;
+
 }
