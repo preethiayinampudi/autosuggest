@@ -174,7 +174,7 @@ async function ask() {
 
   let answer = "";
   let frameQueued = false;
-
+ 
   // Re-parsing Markdown on every tiny network chunk is wasteful — a chunk can
   // be a single word. Instead we mark a render as "pending" and let the
   // browser's own paint cycle (requestAnimationFrame) collapse many chunks
